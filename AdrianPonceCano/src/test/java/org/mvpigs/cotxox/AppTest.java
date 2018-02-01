@@ -1,8 +1,8 @@
 package org.mvpigs.cotxox;
 
-import junit.framework.Test;
+import org.junit.*;
 import junit.framework.TestCase;
-import junit.framework.TestSuite;
+import junit.framework.Assert;
 
 /**
  * Unit test for simple App.
