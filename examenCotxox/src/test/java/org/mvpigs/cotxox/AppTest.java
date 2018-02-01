@@ -1,4 +1,4 @@
-package org.mvpigs;
+package org.mvpigs.cotxox;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
